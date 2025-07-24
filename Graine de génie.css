@@ -1,0 +1,65 @@
+h1  
+{
+	color:darkgreen;
+	background-image:red;
+}
+#energieee
+{
+	width:100%;
+	height: 200px;
+	object-fit: fill;
+	display: block;
+}
+
+#logo{
+    width:20%;
+	height: 170px;
+
+}
+.logo{
+	display:flex;
+}
+#energie
+{
+    width: 300px;
+	height:200;
+}
+
+#logoinsta{
+	width:30px;
+	height:	auto;
+
+}
+.logoinsta{
+	display:flex;
+}
+a{
+	color: black;
+}
+
+h2
+ <style>
+    @font-face {
+      font-family: "BreeSerif";
+      src: url('fonts/BreeSerif.ttf') format('truetype');
+    }
+
+    body {
+      font-family: "BreeSerif", sans-serif;
+}
+
+#imagedefi{
+    width:20%;
+	height: 170px;
+
+}
+.imagedefi{
+	display:flex;
+}
+
+.dechet{
+	width:100%;
+	height:300px;
+
+}	
+
